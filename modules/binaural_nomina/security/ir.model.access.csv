@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hr_employee_dependant,access_hr_employee_dependant,model_hr_employee_dependant,,1,1,1,1
+access_hr_employee_degree,access_hr_employee_degree,model_hr_employee_degree,,1,1,1,1
+access_hr_employee_bank,access_hr_employee_bank,model_hr_employee_bank,,1,1,1,1
+access_hr_employee_salary_change,access_hr_employee_salary_change,model_hr_employee_salary_change,,1,0,0,0
+access_hr_payroll_move,access_hr_payroll_move,model_hr_payroll_move,,1,1,1,1
+access_hr_payroll_benefits_accumulated,access_hr_payroll_benefits_accumulated,model_hr_payroll_benefits_accumulated,,1,0,1,0
